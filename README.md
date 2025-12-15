@@ -1,37 +1,61 @@
 ## Hi there 👋 I'm Ankit Chandore
 
-Backend-focused developer who enjoys building scalable APIs and systems that don’t fall apart under real traffic.
+Backend developer focused on building scalable, maintainable systems and APIs that survive real-world usage.
 
-### 🛠 Tech Stack
-- **Backend:** Node.js, NestJS, Express
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Frontend:** React.js
-- **Cloud & DevOps:** AWS
-- **Payments & Integrations:** Stripe, Xero
-- **Languages:** JavaScript, TypeScript, Python
+### 🚀 Tech Stack
+**Backend**
+- Node.js, NestJS, Express  
+- REST APIs, Auth, Multi-tenant systems  
 
-### 🔭 What I’m working on
-- Scalable backend services using **NestJS**
-- Payment flows and subscriptions with **Stripe**
-- API-driven systems with clean architecture
+**Databases**
+- PostgreSQL, MySQL, MongoDB  
 
-### 🌱 Currently learning
-- Advanced system design
-- Performance optimization & scaling
-- More Python for backend and AI use cases
+**Frontend**
+- React.js  
 
-### 👯 Open to collaborate on
-- Backend-heavy projects
-- API development
-- SaaS products
+**Cloud & Infra**
+- AWS  
 
-### 💬 Ask me about
-- Node.js & NestJS architecture  
-- Database design (SQL & NoSQL)
-- Payment integrations
+**Integrations**
+- Stripe (payments, subscriptions)
+- Xero (accounting APIs)
 
-### 📫 How to reach me
-- GitHub: [@Chandore998](https://github.com/Chandore998)
-- LinkedIn: *(add your link here)*
+**Languages**
+- JavaScript, TypeScript, Python  
 
 ---
+
+### 🔭 Currently Working On
+- Backend services using **NestJS**
+- Payment & subscription workflows with **Stripe**
+- Clean architecture and scalable API design
+
+### 🌱 Currently Learning
+- Advanced system design
+- Backend performance optimization
+- Python for backend & AI-focused projects
+
+### 👯 Open to Collaborate On
+- Backend-heavy applications
+- SaaS products
+- API & microservices development
+
+### 💬 Ask Me About
+- Node.js & NestJS architecture
+- SQL vs NoSQL database design
+- Secure authentication & payments
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandore998&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandore998&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+- GitHub: [@Chandore998](https://github.com/Chandore998)
+- LinkedIn: *(add link)*
+
